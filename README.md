@@ -19,7 +19,7 @@ Arsitektur ini menggabungkan:
 ### 🧠 Ilustrasi Algoritma Hybrid
 *(Catatan: Unggah gambar arsitektur Anda dengan nama `Arsitektur_Hybrid_UNet.png` di repositori ini)*
 <p align="center">
-  <img src="Arsitektur_Hybrid_UNet.png" alt="Arsitektur Hybrid Residual-Attention U-Net" width="700">
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/8792f4cf-4ce9-4aa0-9345-8ec51f97a67a" />
   <br>
   <i>Gambar: Arsitektur Hybrid Residual-Attention U-Net Usulan</i>
 </p>
@@ -37,7 +37,7 @@ Dalam proses *training* menggunakan 488 studi kasus dari dataset KiTS23, model u
 
 *(Catatan: Unggah gambar grafik evaluasi Anda dengan nama `Grafik_Loss_Akurasi.png`)*
 <p align="center">
-  <img src="Grafik_Loss_Akurasi.png" alt="Grafik Penurunan Loss dan Akurasi" width="600">
+<img width="3608" height="1184" alt="Image" src="https://github.com/user-attachments/assets/7c6d0d1a-7e00-4467-b249-d6fcef7a3658" />
   <br>
   <i>Gambar: Perbandingan Grafik Penurunan Loss antara U-Net Standar dan Hybrid U-Net</i>
 </p>
@@ -52,7 +52,7 @@ Visualisasi di bawah ini menampilkan perbandingan *slice-by-slice* antara Citra 
 
 *(Catatan: Pastikan Anda mengunggah file `Visualisasi_6_Sampel_Tumor.png` hasil dari Jupyter Notebook Anda ke direktori utama repositori)*
 <p align="center">
-  <img src="Visualisasi_6_Sampel_Tumor.png" alt="Sampel Hasil Segmentasi Tumor Ginjal" width="800">
+<img width="2756" height="1056" alt="Image" src="https://github.com/user-attachments/assets/c7f5e005-2a85-4ca0-9389-49ad3c294096" />
   <br>
   <i>Gambar: (Kiri) CT Scan Asli, (Tengah) Ground Truth Dokter, (Kanan) Prediksi Hybrid U-Net</i>
 </p>
